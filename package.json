@@ -1,0 +1,19 @@
+{
+  "name": "pingzee-gateway",
+  "version": "0.0.1",
+  "description": "Gateway for communcaition",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Yo its okey it seems \" && exit 1"
+  },
+  "author": "Nikhil Mishra <nikhilm359@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "debug": "^3.1.0",
+    "lzwcompress": "^0.2.4",
+    "moment": "^2.20.1",
+    "mqtt": "^2.15.1",
+    "underscore": "^1.8.3",
+    "uniqid": "^4.1.1"
+  }
+}
