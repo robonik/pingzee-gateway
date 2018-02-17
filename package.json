@@ -6,6 +6,10 @@
   "scripts": {
     "test": "echo \"Yo its okey it seems \" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:robonik/pingzee-gateway.git"
+  },
   "author": "Nikhil Mishra <nikhilm359@gmail.com>",
   "license": "ISC",
   "dependencies": {

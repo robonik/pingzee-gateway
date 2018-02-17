@@ -1,2 +1,2 @@
-# pingzee-gateway-
+# pingzee-gateway
 Gateway client for Pingzee Communication 
